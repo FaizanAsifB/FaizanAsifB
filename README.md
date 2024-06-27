@@ -27,7 +27,7 @@ Welcome to my GitHub profile. I'm a passionate Frontend Developer dedicated to c
 **Tech Trove**: An e-commerce platform for electronics built with Next.js, featuring a robust CMS for seamless content management.
 
 - 🛠️ **Technologies**: HTML, CSS, TypeScript, React, Next.js, Tailwind CSS, PostgreSQL
-- 🌐 **Live Demo**: [Explore Tech Trove](https://tech-trove-demo.herokuapp.com/)
+- 🌐 **Live Demo**: [Explore Tech Trove](https://tech-trove-store.vercel.app/)
 - 📖 **Project Overview**: [Learn more about Tech Trove](https://portfolio-faizan-asif.vercel.app/02-ecommerce)
 
 ---
