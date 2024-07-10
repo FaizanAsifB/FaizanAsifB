@@ -28,7 +28,7 @@ Welcome to my GitHub profile. I'm a passionate Frontend Developer dedicated to c
 
 - 🛠️ **Technologies**: HTML, CSS, TypeScript, React, Next.js, Tailwind CSS, PostgreSQL
 - 🌐 **Live Demo**: [Explore Tech Trove](https://tech-trove-store.vercel.app/)
-- 📖 **Project Overview**: [Learn more about Tech Trove](https://portfolio-faizan-asif.vercel.app/02-ecommerce)
+- 📖 **Project Overview**: [Learn more about Tech Trove](https://portfolio-faizan-asif.vercel.app/02-tech-trove)
 
 ---
 
