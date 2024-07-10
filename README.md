@@ -52,6 +52,6 @@ Welcome to my GitHub profile. I'm a passionate Frontend Developer dedicated to c
 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/faizanasif/)
 - **Portfolio**: [Explore my portfolio](https://portfolio-faizan-asif.vercel.app/)
-- **Email**: [faizan.asifb@gmail.com](mailto:faizan.asifb@gmail.com)
+- **Email**: [faizanasif.dev@gmail.com](mailto:faizanasif.dev@gmail.com)
 
 Looking forward to collaborating and building amazing things together! 🚀
